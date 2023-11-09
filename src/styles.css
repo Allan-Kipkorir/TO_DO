@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+
+body {
+  background-color: rgb(196, 232, 243);
+}
+.App {
+  font-family: "Indie Flower", cursive;
+  text-align: center;
+}
