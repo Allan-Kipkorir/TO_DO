@@ -19,7 +19,6 @@ To use the app:
 - Click the "Add Task" button to add it to the list
 - To mark a task as complete, click the checkbox next to it
 - Completed tasks will be crossed out
-- To delete a task, click the "X" button next to it
 
 The tasks are stored in the component state and will persist on page refresh.
 
